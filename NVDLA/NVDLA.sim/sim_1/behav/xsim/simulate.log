@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+3 * 4 + 0 =          12 (expect 12)
+2 * 5 + 12 =          22 (expect 22)
+$finish called at time : 30 ns : File "D:/vivado_proj_1/NVDLA/NVDLA.srcs/sim_1/new/mac_unit_tb.v" Line 33
